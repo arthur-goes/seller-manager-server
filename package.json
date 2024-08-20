@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "seller-manager-server",
+  "version": "1.0.0",
+  "description": "Backend do gerenciador para o Amazon Seller",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Arthur Góes",
+  "license": "ISC"
+}
